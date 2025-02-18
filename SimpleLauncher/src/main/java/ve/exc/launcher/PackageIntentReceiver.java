@@ -1,4 +1,5 @@
-package ch.arnab.simplelauncher;
+package ve.exc.launcher;
+
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

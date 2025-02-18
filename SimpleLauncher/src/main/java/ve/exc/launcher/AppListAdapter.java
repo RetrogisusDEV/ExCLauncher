@@ -1,4 +1,5 @@
-package ch.arnab.simplelauncher;
+package ve.exc.launcher;
+
 
 import android.annotation.TargetApi;
 import android.content.Context;

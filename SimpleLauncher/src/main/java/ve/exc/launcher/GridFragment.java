@@ -1,4 +1,5 @@
-package ch.arnab.simplelauncher;
+package ve.exc.launcher;
+
 
 /*
  * Created by Thomas Barrasso on 9/11/12.

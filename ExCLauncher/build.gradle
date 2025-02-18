@@ -25,14 +25,16 @@ dependencies {
 }
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 33
+
     buildFeatures {
         viewBinding true
     }
     
     defaultConfig {
         minSdkVersion 21
-        targetSdkVersion 30
+        targetSdkVersion 33
+
         namespace 've.exc.launcher'
     }
 }
